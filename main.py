@@ -6,7 +6,7 @@ import os
 
 DEBUG = False
 
-TOKEN = "727253306:AAFi8f_8nmRntcDivDHaTTMp6A1Xkua93hw"
+TOKEN = "You can locate you token here"
 PATH = "/home/user/bot/"
 CHAR = '/'
 FILE_NAME = "out.pdf"
